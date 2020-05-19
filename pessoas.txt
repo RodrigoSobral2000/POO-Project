@@ -1,0 +1,11 @@
+0,Márcia Caetano,marciacaetano@dei.uc.pt,2018273742,Sistemas Inteligentes
+800,Filipa Santos,filipasantos@dei.uc.pt,9/12/2019,9/12/2020
+1200,Rodrigo Fernando,rodrigofernando@dei.uc.pt,5/5/2016,5/10/2017
+1000,Ana Rodrigues,anarodrigues@dei.uc.pt,7/12/2015,8/12/2016
+0,Nuno Alberto,nunoalberto@dei.uc.pt,2018564567,Criptografia
+0,Sandra Garcia,sandragarcia@gmail.com,2018568778,Biologia Marinha
+0,Elisabete Fernandes,elisabetefernandes@gmail.com,2018098765,Psicologia
+800,Fernando Costa,fernandocosta@dei.uc.pt,6/7/2017,7/7/2018
+0,Teresa Camurça,teresacarmurca@gmail.com,2018787889,Medicina
+1000,Mariana Santos,marianasantos@dei.uc.pt,8/9/2018,9/9/2019
+0,Marco Oliveira,marcooliveira@dei.uc.pt,2018343437,Sistemas Operativos
